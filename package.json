@@ -1,0 +1,10 @@
+{
+  "name": "@fkit/firestore-backup",
+  "version": "1.0.1",
+  "bin": {
+    "firestoreRestore": "bin/FirestoreRestore"
+  },
+  "files": ["bin"],
+  "author": "Angel Grablev <agrublev@gmail.com>",
+  "license": "MIT"
+}
